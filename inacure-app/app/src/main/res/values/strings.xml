@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Inacure</string>
+    <string name="search">Search</string>
+    <string name="icon_scanner">Icon Scanner</string>
+    <string name="icon">Icon</string>
+    <string name="logo">Logo Inacure</string>
+    <string name="image">Image from unsplash</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="home">Home</string>
+    <string name="scan">Scan</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_plant">Search Plant</string>
+    <string name="plant_benefits">Plant Benefits</string>
+    <string name="search_by_image">Search By Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="png_jpg_and_gif_files_are_allowed">PNG, JPG and GIF files are allowed</string>
+    <string name="choose_a_file">Choose a file</string>
+    <string name="upload_your_image">Upload your image</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="about">About</string>
+    <string name="indonesia_nature_for_cure">Indonesia Nature For Cure</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="copyright_u00a9_2022_inacure">Copyright © 2022 Inacure</string>
+    <string name="see_article">See Article</string>
+</resources>
